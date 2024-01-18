@@ -30,5 +30,6 @@ algorithm names:
 'prob' for the Probabilistic Growth Algorithm
 'diff' for the Diffusion Growth Algorithm
 
-Example:
-python C:\path\to\GrowthSimulation.py -rule prob
+Examples:
+1. python C:\path\to\GrowthSimulation.py -rule prob
+2. python "C:\Users\***YOUR USER***\Downloads\2304 Artificial Intelligence\GrowthSimulation.py" -rule diff
